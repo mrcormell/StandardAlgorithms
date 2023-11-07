@@ -45,6 +45,7 @@
 				B44F86842AFA48320083443F /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		B44F86842AFA48320083443F /* Products */ = {
 			isa = PBXGroup;
